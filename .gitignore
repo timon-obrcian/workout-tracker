@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment / API keys
+.env
+
+# Local database
+workout.db
+
+# Generated charts
+charts/
+
+# IDE
+.vscode/
+.idea/
